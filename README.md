@@ -5,9 +5,7 @@
 
 Hey there! I'm Jaclyn, a fresh-faced software developer with a love of cats and painting. 
 Before diving into the world of coding, I spent years as a vet tech, 
-caring for furry companions and learning the art of problem-solving. 
-
-I enjoy the creative side of coding and making things look aesthetically pleaing as well as functional.
+caring for furry companions and learning the art of problem-solving.
 
 When I'm not coding, you can find me painting or watching movies with my cats. 
 <!---
