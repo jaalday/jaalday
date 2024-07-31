@@ -3,7 +3,7 @@
 
 ![Junior Software Developer](https://static.vecteezy.com/system/resources/thumbnails/008/925/226/small_2x/group-of-cute-happy-smile-kitten-cat-sitting-cartoon-doodle-hand-drawing-banner-vector.jpg)
 
-Hello! I'm Jaclyn, I am a fresh faced software developer. Before diving into the world of coding, I spent years as a dedicated vet tech, nurturing both animals and my love for science. In my spare time, I indulge my creative side as an artist. Software development integrates my two passions of art and science together to create systems that are robust as well as visually pleasing.
+A Software Developer with hands-on experience in React, Python, JavaScript, FastAPI, HTML5, CSS and SQL. Skilled in building and maintaining web applications, with a strong foundation in both front-end and back-end development.  I am a dedicated cat lady, so you will see cats inserted throughout my code. I spent many years as a vet tech, as well as an art teacher. Coding brings my two passions of science and art together in a seamless way.
 
 
 Skills: REACT / JS / HTML / CSS / PYTHON /  SQL / SUPABASE / FIGMA
